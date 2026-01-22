@@ -1,0 +1,15 @@
+# Ignore API configuration file
+config.js
+
+# Ignore node_modules if you add any dependencies later
+node_modules/
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+.vscode/
+.idea/
+*.swp
+*.swo
